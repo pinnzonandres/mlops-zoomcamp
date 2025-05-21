@@ -175,4 +175,4 @@ cython_debug/
 
 # Original Course
 Original_Course/
-02-Experiment-Tracking/mlruns/
+02-Experiment-Tracking/mlruns/*
